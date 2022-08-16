@@ -18,7 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niki-evgeniev&show_icons=true&locale=en&layout=compact" alt="niki-evgeniev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niki-evgeniev&show_icons=true&locale=en" alt="niki-evgeniev" /></p>
-                                  
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niki-evgeniev&show_icons=true&&count_private=true&cache_seconds=86400&theme=gotham" alt="niki-evgeniev" /></p>                
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=niki-evgeniev&theme=dark&hide_border=true" alt="niki-evgeniev" /></p>
