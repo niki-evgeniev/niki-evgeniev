@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **niki.evgeniev@gmail.com**
 
-- Sertificate Jaba Basic -> https://softuni.bg/certificates/details/128155/9c0c6b4e
+- Sertificate Java Basic -> https://softuni.bg/certificates/details/128155/9c0c6b4e
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
