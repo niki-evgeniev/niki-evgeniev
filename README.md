@@ -5,9 +5,9 @@
 
 <p align="center">- 🌱 I’m currently learning **Java**
 
-<p align="center">- 👨‍💻 All of my projects are available at [https://github.com/niki-evgeniev?tab=repositories](https://github.com/niki-evgeniev?tab=repositories)</p>
+<p align="left">- 👨‍💻 All of my projects are available at https://github.com/niki-evgeniev?tab=repositories](https://github.com/niki-evgeniev?tab=repositories)</p>
 
-<p align="center">- 📫 How to reach me **niki.evgeniev@gmail.com**</p>
+<p align="center">- 📫 How to reach me niki.evgeniev@gmail.com</p>
 
 - **Certificate from SoftUni - Programming Basics** -> https://softuni.bg/certificates/details/128155/9c0c6b4e
 - **Certificate from SoftUni - Programming Fundamentals with Java** ->  https://softuni.bg/certificates/details/138595/60595253
