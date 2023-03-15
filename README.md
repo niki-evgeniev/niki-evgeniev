@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=niki-evgeniev&label=Profile%20views&color=orange&style=plastic" alt="niki-evgeniev" /> </p>
 
-<p>- 🌱 I’m currently learning **Java**
+<p align="center">- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/niki-evgeniev?tab=repositories](https://github.com/niki-evgeniev?tab=repositories)
 
