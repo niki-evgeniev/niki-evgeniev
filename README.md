@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=niki-evgeniev&label=Profile%20views&color=orange&style=plastic" alt="niki-evgeniev" /> </p>
 
-- 🌱 I’m currently learning **Java**
+<p>- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/niki-evgeniev?tab=repositories](https://github.com/niki-evgeniev?tab=repositories)
 
@@ -12,9 +12,9 @@
 - **Certificate from SoftUni - Programming Basics** -> https://softuni.bg/certificates/details/128155/9c0c6b4e
 - **Certificate from SoftUni - Programming Fundamentals with Java** ->  https://softuni.bg/certificates/details/138595/60595253
 - **Certificate from SoftUni - Java Advanced September** ->  https://softuni.bg/certificates/details/145779/e8d33a9b
-- **Certificate from SoftUni - Java OOP October** ->  https://softuni.bg/certificates/details/153068/888b0886
+- **Certificate from SoftUni - Java OOP October** ->  https://softuni.bg/certificates/details/153068/888b0886</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://fb.com/psyhopath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="psyhopath" height="30" width="40" /></a>
 <a href="https://instagram.com/maddeniggaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maddeniggaz" height="30" width="40" /></a>
