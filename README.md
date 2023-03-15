@@ -3,16 +3,16 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=niki-evgeniev&label=Profile%20views&color=orange&style=plastic" alt="niki-evgeniev" /> </p>
 
-<p align="center">- 🌱 I’m currently learning **Java**
+<p align="left">- 🌱 I’m currently learning **Java**
 
-<p align="center">- 👨‍💻 All of my projects are available at https://github.com/niki-evgeniev?tab=repositories</p>
+<p align="left">- 👨‍💻 All of my projects are available at https://github.com/niki-evgeniev?tab=repositories</p>
 
-<p align="center">- 📫 How to reach me niki.evgeniev@gmail.com</p>
+<p align="left">- 📫 How to reach me niki.evgeniev@gmail.com</p>
 
-- **Certificate from SoftUni - Programming Basics** -> https://softuni.bg/certificates/details/128155/9c0c6b4e
-- **Certificate from SoftUni - Programming Fundamentals with Java** ->  https://softuni.bg/certificates/details/138595/60595253
-- **Certificate from SoftUni - Java Advanced September** ->  https://softuni.bg/certificates/details/145779/e8d33a9b
-- **Certificate from SoftUni - Java OOP October** ->  https://softuni.bg/certificates/details/153068/888b0886
+<p align="left">- **Certificate from SoftUni - Programming Basics** -> https://softuni.bg/certificates/details/128155/9c0c6b4e</p>
+<p align="left"><p align="left"><p align="left">- **Certificate from SoftUni - Programming Fundamentals with Java** ->  https://softuni.bg/certificates/details/138595/60595253</p></p></p>
+<p align="left"><p align="left">- **Certificate from SoftUni - Java Advanced September** ->  https://softuni.bg/certificates/details/145779/e8d33a9b</p></p>
+<p align="left">- **Certificate from SoftUni - Java OOP October** ->  https://softuni.bg/certificates/details/153068/888b0886</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
