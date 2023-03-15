@@ -1,4 +1,4 @@
-    <h1 align="center">Hi 👋, I'm Nikolay</h1>
+<h1 align="center">Hi 👋, I'm Nikolay</h1>
     <h3 align="center">Im i student from Bulgaria and i learning in SoftUni University</h3>
 
     <p align="center"> <img
@@ -33,7 +33,7 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
                 width="40" height="40" /> </a> </p>
 
-  
+    <article align="center">
     <p><img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=niki-evgeniev&show_icons=true&locale=en&layout=compact"
             alt="niki-evgeniev" /></p>
@@ -46,4 +46,4 @@
     <p><img align="center"
             src="https://github-readme-streak-stats.herokuapp.com?user=niki-evgeniev&theme=dark&hide_border=true"
             alt="niki-evgeniev" /></p>
-    
+    </article>
