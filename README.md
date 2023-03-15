@@ -5,14 +5,14 @@
 
 <p align="center">- 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/niki-evgeniev?tab=repositories](https://github.com/niki-evgeniev?tab=repositories)
+<p align="center">- 👨‍💻 All of my projects are available at [https://github.com/niki-evgeniev?tab=repositories](https://github.com/niki-evgeniev?tab=repositories)</p>
 
-- 📫 How to reach me **niki.evgeniev@gmail.com**
+<p align="center">- 📫 How to reach me **niki.evgeniev@gmail.com**</p>
 
 - **Certificate from SoftUni - Programming Basics** -> https://softuni.bg/certificates/details/128155/9c0c6b4e
 - **Certificate from SoftUni - Programming Fundamentals with Java** ->  https://softuni.bg/certificates/details/138595/60595253
 - **Certificate from SoftUni - Java Advanced September** ->  https://softuni.bg/certificates/details/145779/e8d33a9b
-- **Certificate from SoftUni - Java OOP October** ->  https://softuni.bg/certificates/details/153068/888b0886</p>
+- **Certificate from SoftUni - Java OOP October** ->  https://softuni.bg/certificates/details/153068/888b0886
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
