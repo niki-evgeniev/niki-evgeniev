@@ -11,12 +11,12 @@
 
 <p align="left">- Certificate from SoftUni - <b>Programming Basics</b> -> https://softuni.bg/certificates/details/128155/9c0c6b4e</p>
 <p align="left"><p align="left"><p align="left">- Certificate from SoftUni - <b>Programming Fundamentals with Java</b> ->  https://softuni.bg/certificates/details/138595/60595253</p></p></p>
-<p align="left"><p align="left">- **Certificate from SoftUni - <b>Java Advanced September</b> ->  https://softuni.bg/certificates/details/145779/e8d33a9b</p></p>
+<p align="left"><p align="left">- Certificate from SoftUni - <b>Java Advanced September</b> ->  https://softuni.bg/certificates/details/145779/e8d33a9b</p></p>
 <p align="left">- Certificate from SoftUni - <b>Java OOP October</b> ->  https://softuni.bg/certificates/details/153068/888b0886</p>
 <p align="left">- Certificate from SoftUni - <b>HTML & CSS</b> ->  https://softuni.bg/certificates/details/163190/7d681e91</p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
+
 <a href="https://fb.com/psyhopath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="psyhopath" height="30" width="40" /></a>
 <a href="https://instagram.com/maddeniggaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maddeniggaz" height="30" width="40" /></a>
 </p>
