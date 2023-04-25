@@ -14,6 +14,7 @@
 <p align="left"><p align="left">- Certificate from SoftUni - <b>Java Advanced September</b> ->  https://softuni.bg/certificates/details/145779/e8d33a9b</p></p>
 <p align="left">- Certificate from SoftUni - <b>Java OOP October</b> ->  https://softuni.bg/certificates/details/153068/888b0886</p>
 <p align="left">- Certificate from SoftUni - <b>HTML & CSS</b> ->  https://softuni.bg/certificates/details/163190/7d681e91</p>
+<p align="left">- Certificate from SoftUni - <b>JS Front-End</b> ->  https://softuni.bg/certificates/details/170797/b125e7d0</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
