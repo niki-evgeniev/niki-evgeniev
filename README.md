@@ -11,11 +11,12 @@
 
 <p align="left">- Certificate from SoftUni - <b>Programming Basics</b> -> https://softuni.bg/certificates/details/128155/9c0c6b4e</p>
 <p align="left"><p align="left"><p align="left">- Certificate from SoftUni - <b>Programming Fundamentals with Java</b> ->  https://softuni.bg/certificates/details/138595/60595253</p></p></p>
-<p align="left"><p align="left">- Certificate from SoftUni - <b>Java Advanced September</b> ->  https://softuni.bg/certificates/details/145779/e8d33a9b</p></p>
-<p align="left">- Certificate from SoftUni - <b>Java OOP October</b> ->  https://softuni.bg/certificates/details/153068/888b0886</p>
+<p align="left"><p align="left">- Certificate from SoftUni - <b>Java Advanced</b> ->  https://softuni.bg/certificates/details/145779/e8d33a9b</p></p>
+<p align="left">- Certificate from SoftUni - <b>Java OOP</b> ->  https://softuni.bg/certificates/details/153068/888b0886</p>
 <p align="left">- Certificate from SoftUni - <b>HTML & CSS</b> ->  https://softuni.bg/certificates/details/163190/7d681e91</p>
 <p align="left">- Certificate from SoftUni - <b>JS Front-End</b> ->  https://softuni.bg/certificates/details/170797/b125e7d0</p>
 <p align="left">- Certificate from SoftUni - <b>MySQL</b> ->  https://softuni.bg/certificates/details/172338/71996642</p>
+<p align="left">- Certificate from SoftUni - <b>Spring Data</b> ->  https://softuni.bg/certificates/details/180607/9447e75e</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
