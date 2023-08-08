@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikolay</h1>
 <h3 align="center">Im i student from Bulgaria and i learning in SoftUni University</h3>
 
-<h4 align="center"> <img src="https://komarev.com/ghpvc/?username=niki-evgeniev&label=Profile%20views&color=orange&style=plastic" alt="niki-evgeniev" /> </h4>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=niki-evgeniev&label=Profile%20views&color=orange&style=plastic" alt="niki-evgeniev" /> </h3>
 
 <h4 align="left">- 🌱 I’m currently learning <b>Java</b></h4>
 
