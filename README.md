@@ -5,18 +5,18 @@
 
 <p align="left">- 🌱 I’m currently learning <b>Java</b></p>
 
-<p align="left">- 👨‍💻 All of my projects are available at : <b><a href="https://github.com/niki-evgeniev?tab=repositories">Link</a></b></p>
+<p align="left">- 👨‍💻 All of my projects are available at --> <b><a href="https://github.com/niki-evgeniev?tab=repositories">Link</a></b></p>
 
-<p align="left">- 📫 How to reach me: <b>niki.evgeniev@gmail.com</b></p>
+<p align="left">- 📫 How to reach me --> <b>niki.evgeniev@gmail.com</b></p>
 
 <p align="left">- Certificate from SoftUni - <b>Programming Basics</b> --> <a href="https://softuni.bg/certificates/details/128155/9c0c6b4e">Link</a></p>
-<p align="left"><p align="left"><p align="left">- Certificate from SoftUni - <b>Programming Fundamentals with Java</b> ->  <a href="https://softuni.bg/certificates/details/138595/60595253">Link</a></p>
-<p align="left"><p align="left">- Certificate from SoftUni - <b>Java Advanced</b> ->  <a href="https://softuni.bg/certificates/details/145779/e8d33a9b">Link</a></p>
-<p align="left">- Certificate from SoftUni - <b>Java OOP</b> ->  <a href="https://softuni.bg/certificates/details/153068/888b0886">Link</a></p>
-<p align="left">- Certificate from SoftUni - <b>HTML & CSS</b> ->  <a href="https://softuni.bg/certificates/details/163190/7d681e91">Link</a></p>
-<p align="left">- Certificate from SoftUni - <b>JS Front-End</b> ->  <a href="https://softuni.bg/certificates/details/170797/b125e7d0">Link</a></p>
-<p align="left">- Certificate from SoftUni - <b>MySQL</b> ->  <a href="https://softuni.bg/certificates/details/172338/71996642">Link</a></p>
-<p align="left">- Certificate from SoftUni - <b>Spring Data</b> ->  <a href="https://softuni.bg/certificates/details/180607/9447e75e">Link</a></p>
+<p align="left"><p align="left"><p align="left">- Certificate from SoftUni - <b>Programming Fundamentals with Java</b> -->  <a href="https://softuni.bg/certificates/details/138595/60595253">Link</a></p>
+<p align="left"><p align="left">- Certificate from SoftUni - <b>Java Advanced</b> -->  <a href="https://softuni.bg/certificates/details/145779/e8d33a9b">Link</a></p>
+<p align="left">- Certificate from SoftUni - <b>Java OOP</b> -->  <a href="https://softuni.bg/certificates/details/153068/888b0886">Link</a></p>
+<p align="left">- Certificate from SoftUni - <b>HTML & CSS</b> -->  <a href="https://softuni.bg/certificates/details/163190/7d681e91">Link</a></p>
+<p align="left">- Certificate from SoftUni - <b>JS Front-End</b> -->  <a href="https://softuni.bg/certificates/details/170797/b125e7d0">Link</a></p>
+<p align="left">- Certificate from SoftUni - <b>MySQL</b> -->  <a href="https://softuni.bg/certificates/details/172338/71996642">Link</a></p>
+<p align="left">- Certificate from SoftUni - <b>Spring Data</b> -->  <a href="https://softuni.bg/certificates/details/180607/9447e75e">Link</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
