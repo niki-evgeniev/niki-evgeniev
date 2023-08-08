@@ -5,7 +5,7 @@
 
 <p align="left">- 🌱 I’m currently learning <b>Java</b></p>
 
-<p align="left">- 👨‍💻 All of my projects are available at: <b><a href="https://github.com/niki-evgeniev?tab=repositories">Link</a></b></p>
+<p align="left">- 👨‍💻 All of my projects are available at : <b><a href="https://github.com/niki-evgeniev?tab=repositories">Link</a></b></p>
 
 <p align="left">- 📫 How to reach me: <b>niki.evgeniev@gmail.com</b></p>
 
