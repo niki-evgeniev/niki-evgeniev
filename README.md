@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikolay</h1>
 <h3 align="center">Im i student from Bulgaria and i learning in SoftUni University</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=niki-evgeniev&label=Profile%20views&color=orange&style=plastic" alt="niki-evgeniev" /> </p>
+<h4 align="center"> <img src="https://komarev.com/ghpvc/?username=niki-evgeniev&label=Profile%20views&color=orange&style=plastic" alt="niki-evgeniev" /> </h4>
 
-<p align="left">- 🌱 I’m currently learning <b>Java</b></p>
+<h4 align="left">- 🌱 I’m currently learning <b>Java</b></h4>
 
 <p align="left">- 👨‍💻 All of my projects are available at --> <b><a href="https://github.com/niki-evgeniev?tab=repositories">Link</a></b></p>
 
