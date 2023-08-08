@@ -9,7 +9,7 @@
 
 <p align="left">- 📫 How to reach me: <b>niki.evgeniev@gmail.com</b></p>
 
-<p align="left">- Certificate from SoftUni - <b>Programming Basics</b> -> <a href="https://softuni.bg/certificates/details/128155/9c0c6b4e">Link</a></p>
+<p align="left">- Certificate from SoftUni - <b>Programming Basics</b>--> <a href="https://softuni.bg/certificates/details/128155/9c0c6b4e">Link</a></p>
 <p align="left"><p align="left"><p align="left">- Certificate from SoftUni - <b>Programming Fundamentals with Java</b> ->  <a href="https://softuni.bg/certificates/details/138595/60595253">Link</a></p>
 <p align="left"><p align="left">- Certificate from SoftUni - <b>Java Advanced</b> ->  <a href="https://softuni.bg/certificates/details/145779/e8d33a9b">Link</a></p>
 <p align="left">- Certificate from SoftUni - <b>Java OOP</b> ->  <a href="https://softuni.bg/certificates/details/153068/888b0886">Link</a></p>
