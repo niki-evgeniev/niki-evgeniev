@@ -9,7 +9,7 @@
 
 <p align="left">- 📫 How to reach me --> <b>niki.evgeniev@gmail.com</b></p>
 
-<p align="left">- <b>all my achievements</b></p>
+<p align="left">- <b> All my achievements</b></p>
 
 <ul>
   <li>Certificate from SoftUni - <b>Programming Basics</b> --> <a href="https://softuni.bg/certificates/details/128155/9c0c6b4e">Link</a></li>
