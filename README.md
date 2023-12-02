@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikolay</h1>
-<h3 align="center">Im i student from Bulgaria and i learning in SoftUni University</h3>
+<h3 align="center">Im i student from Bulgaria and i learning JAVA in SoftUni University</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=niki-evgeniev&label=Profile%20views&color=orange&style=plastic" alt="niki-evgeniev" /> </p>
 
