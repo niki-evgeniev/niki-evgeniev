@@ -30,7 +30,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=idea,java,spring,html,css" alt="java"/> </a> </p>
+<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=idea,java,spring,html,css,js,github,maven,mysql" alt="java"/> </a> </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niki-evgeniev&show_icons=true&locale=en&layout=compact" alt="niki-evgeniev" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niki-evgeniev&show_icons=true&&count_private=true&cache_seconds=86400&theme=gotham" alt="niki-evgeniev" /></p> 
