@@ -24,9 +24,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://fb.com/psyhopath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="psyhopath" height="30" width="40" /></a>
-<a href="https://instagram.com/maddeniggaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maddeniggaz" height="30" width="40" /></a>
-  <a href="https://instagram.com/maddeniggaz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="maddeniggaz" height="30" width="40" /></a>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+<a href="https://instagram.com/maddeniggaz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="maddeniggaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
