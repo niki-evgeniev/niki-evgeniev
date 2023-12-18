@@ -19,6 +19,8 @@
   <li>Certificate from SoftUni - <b>JS Front-End</b> -->  <a href="https://softuni.bg/certificates/details/170797/b125e7d0">Link</a></li>
   <li>Certificate from SoftUni - <b>MySQL</b> -->  <a href="https://softuni.bg/certificates/details/172338/71996642">Link</a></li>
   <li>Certificate from SoftUni - <b>Spring Data</b> -->  <a href="https://softuni.bg/certificates/details/180607/9447e75e">Link</a></li>
+  <li>Certificate from SoftUni - <b>Spring Fundamentals</b> -->  <a href="https://softuni.bg/certificates/details/191539/25abfe1c">Link</a></li>
+  <li>Certificate from SoftUni - <b>Spring Advanced</b> -->  <a href="https://softuni.bg/certificates/details/197686/28b3ddc0">Link</a></li>
 </ul>
 
 <h3 align="center">Connect with me:</h3>
