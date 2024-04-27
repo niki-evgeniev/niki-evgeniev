@@ -11,9 +11,9 @@
 
 <p align="left">- <b> All my achievements</b></p>
 <ul>
-  <li>Certificate from SoftUni - <b>Programming Basics</b> --> <a href="https://softuni.bg/certificates/details/128155/9c0c6b4e">Link</a></li>
+  <li>Certificate from SoftUni - <b>Programming Basics</b> --> <a target="_blank" href="https://softuni.bg/certificates/details/128155/9c0c6b4e">Link</a></li>
   <li>Certificate from SoftUni - <b>Programming Fundamentals with Java</b> -->  <a href="https://softuni.bg/certificates/details/138595/60595253">Link</a></li>
-  <li>Certificate from SoftUni - <b>Java Advanced</b> -->  <a href="https://softuni.bg/certificates/details/145779/e8d33a9b">Link</a></li>
+  <li>Certificate from SoftUni - <b>Java Advanced</b> -->  <a  href="https://softuni.bg/certificates/details/145779/e8d33a9b">Link</a></li>
   <li>Certificate from SoftUni - <b>Java OOP</b> -->  <a href="https://softuni.bg/certificates/details/153068/888b0886">Link</a></li>
   <li>Certificate from SoftUni - <b>HTML & CSS</b> -->  <a href="https://softuni.bg/certificates/details/163190/7d681e91">Link</a></li>
   <li>Certificate from SoftUni - <b>JS Front-End</b> -->  <a href="https://softuni.bg/certificates/details/170797/b125e7d0">Link</a></li>
