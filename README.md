@@ -9,7 +9,7 @@
 
 <p align="left">- 📫 How to reach me --> <b>niki.evgeniev@gmail.com</b></p>
 
-<p align="left">- <b> My last project</b> https://carpmap.online/ </p>
+<p align="left">- <b> My last project :</b> https://carpmap.online/ </p>
 
 <p align="left">- <b> All my achievements</b></p>
 <ul>
