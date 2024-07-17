@@ -31,14 +31,15 @@
 <a href="https://fb.com/psyhopath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="psyhopath" height="30" width="40" /></a>
 <a href="https://instagram.com/maddeniggaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maddeniggaz" height="30" width="40" /></a>
 </p>
-ø
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<p align="center"> <img src="https://skillicons.dev/icons?i=idea,vscode,java,regex,spring,mysql,maven,gradle,html,css,bootstrap,js,github,docker,grafana,jenkins,powershell" alt="java"/> </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niki-evgeniev&show_icons=true&&count_private=true&cache_seconds=86400&theme=gotham" alt="niki-evgeniev" /></p> 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niki-evgeniev&show_icons=true&locale=en&layout=compact" alt="niki-evgeniev" /></p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=idea,java,regex,spring,mysql,maven,gradle,html,css,bootstrap,js,github" alt="java"/> </p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niki-evgeniev&show_icons=true&locale=en&layout=compact" alt="niki-evgeniev" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niki-evgeniev&show_icons=true&&count_private=true&cache_seconds=86400&theme=gotham" alt="niki-evgeniev" /></p> 
 </p>
+
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=niki-evgeniev&theme=dark&hide_border=true" alt="niki-evgeniev" /></p>
