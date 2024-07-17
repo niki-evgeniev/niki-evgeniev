@@ -36,10 +36,6 @@
 <p align="center">
 <p align="center"> <img src="https://skillicons.dev/icons?i=idea,vscode,java,regex,spring,mysql,maven,gradle,html,css,bootstrap,js,github,docker,grafana,jenkins,powershell" alt="java"/> </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niki-evgeniev&show_icons=true&locale=en&layout=compact" alt="niki-evgeniev" /></p>
-
-</p>
-
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=niki-evgeniev&theme=dark&hide_border=true" alt="niki-evgeniev" /></p>
