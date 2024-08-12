@@ -34,7 +34,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<p align="center"> <img src="https://skillicons.dev/icons?i=idea,vscode,java,regex,spring,mysql,maven,gradle,html,css,bootstrap,js,github,docker,grafana,jenkins,powershell" alt="java"/> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=idea,vscode,java,regex,spring,mysql,maven,gradle,html,css,bootstrap,js,github,docker,azure,grafana,jenkins,powershell" alt="java"/> </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niki-evgeniev&show_icons=true&locale=en&layout=compact" alt="niki-evgeniev" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niki-evgeniev&show_icons=true&&count_private=true&cache_seconds=86400&theme=gotham" alt="niki-evgeniev" /></p> 
