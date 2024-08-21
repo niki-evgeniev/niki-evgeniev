@@ -24,6 +24,7 @@
   <li>Certificate from SoftUni - <b>Spring Fundamentals</b> -->  <a href="https://softuni.bg/certificates/details/191539/25abfe1c">Link</a></li>
   <li>Certificate from SoftUni - <b>Spring Advanced</b> -->  <a href="https://softuni.bg/certificates/details/197686/28b3ddc0">Link</a></li>
   <li>Certificate from SoftUni - <b>Software Engineering and DevOps</b> -->  <a href="https://softuni.bg/certificates/details/219705/af36b848">Link</a></li>
+  <li>Certificate from SoftUni - <b>Containers and Cloud</b> -->  <a href="https://softuni.bg/certificates/details/224737/dd7b1edf">Link</a></li>
 </ul>
 
 <h3 align="center">Connect with me:</h3>
