@@ -40,6 +40,13 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niki-evgeniev&show_icons=true&locale=en&layout=compact" alt="niki-evgeniev" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niki-evgeniev&show_icons=true&&count_private=true&cache_seconds=86400&theme=gotham" alt="niki-evgeniev" /></p> 
 </p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niki-evgeniev&layout=compact&locale=en&theme=gotham" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niki-evgeniev&show_icons=true&count_private=true&cache_seconds=86400&theme=gotham" alt="GitHub Stats" />
+</p>
 
 
 
